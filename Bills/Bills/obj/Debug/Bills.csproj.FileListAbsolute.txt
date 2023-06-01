@@ -1,0 +1,7 @@
+D:\JinoRepos\Jino Project\Bills\Bills\bin\Debug\Bills.exe.config
+D:\JinoRepos\Jino Project\Bills\Bills\bin\Debug\Bills.exe
+D:\JinoRepos\Jino Project\Bills\Bills\bin\Debug\Bills.pdb
+D:\JinoRepos\Jino Project\Bills\Bills\obj\Debug\Bills.csproj.AssemblyReference.cache
+D:\JinoRepos\Jino Project\Bills\Bills\obj\Debug\Bills.csproj.CoreCompileInputs.cache
+D:\JinoRepos\Jino Project\Bills\Bills\obj\Debug\Bills.exe
+D:\JinoRepos\Jino Project\Bills\Bills\obj\Debug\Bills.pdb
